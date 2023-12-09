@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Singleton",
+  "age": 59,
+  "address": {
+    "street": "Igjum Boulevard",
+    "city": "Jogikla",
+    "state": "MA",
+    "zip": "54502"
+  },
+  "contact": {
+    "phone": "(576) 922-6719",
+    "servicePhone": "800971934"
+  },
+  "birthday": "1968-06-24T15:10:31.981Z",
+  "ip": "201.190.148.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Hadiwi ukogki vagvevuca kumuhuca hop la berdibe upgazi guh vofpov kagi bah zu di ne bufit. Famnumaw la razev to natup unediufi zetfo tacbe lij enosan uv homhobmo kecofu ed. Ucizepnif jofocib fe ogahu otetese vom of igez tigtebha ejkonez pud raji pehofioh. Fufeke goblur ca omamaza ritusuk lugo gu mujo oleizuke lop tecnizli apa. Niovo ir danhel mic peow la baznoj setkom pec zup jivajo ritvomvo ti vuvobko omrazbe. Mob segbiro lenofa gajo ketiaz dudizwi paczusuk elitaise ifo kapifu junfod fe jase ikifa. Us vuzo legar pe hah azazafbad bus mukdut wub pomnud tor aniruru duwibava wobzi opowuhob alzecmer.",
+    "bio": "Pu kedmucmu zuh powoja jadpor buzki gazi wiki mupe nulu isohovha le sojor cer siavocub. Zivbahhaf bo sorwe lesi zotnupti wit pojeb romiz ok jor hunzeiw haekeopi al ingiv. Ma leminpi ivzifwu niv guhpon gibuza pef uw lavatzih betaeg getoz bonollib pazwer ad jazen ugomibsu. Badih ze eba tofde sikemidi gizehgi jibeglen maowuhu lunbeflub uh kogis hultugded ecieso pebireho bohapat cokow natahipi. Mufjoz mikveac bicuuwo leme mutig ninwejo bo movipogo zeakuzek cive novfi irakiul rele nugwu mawabi ligowu dew. Nelli mittolwo uvliab ra hotaz neb lu fi ezo zehagi ez cekon. To lugo bew avenem jees obuda pezdi ruvfegi hamki dojojfig wuiz pa ohanatot."
+  },
+  "apiKey": "679bb19b122d5c2719ea01c1d83b0b25b4dd1a6597d23419939d3c64a0497dee",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
