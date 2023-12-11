@@ -1,0 +1,26 @@
+{
+  "name": "Michael Marshall",
+  "age": 44,
+  "address": {
+    "street": "Redca Street",
+    "city": "Ojmahec",
+    "state": "SD",
+    "zip": "65551"
+  },
+  "contact": {
+    "phone": "(507) 546-3391",
+    "servicePhone": "800141971"
+  },
+  "birthday": "1971-12-21T20:07:34.600Z",
+  "ip": "162.80.85.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Uhle epuze nihowub regior ifahavu liji ozfo fuzse fitro giipre lo or tevawzom gejivauc. Sevlahjes doppooro batkapnil loawu jubu arapiroze zawuhfe jic dukodni mewu ungeinu uju pofdujbu ikovu. Zehil antor sofeta etiturrif favu geg vocikdom fepiwas imo onu cufasaf muzzi mabde cios gic puhiwbo mafa. Kelowkak vugaow hiitdi ted sa towkiki vi apudubkog zuwiin bosrup pokutdu zesvuvfir.",
+    "bio": "Cuhabo mumeneh vuverri tet fujrat acer zidsihev tasawpe le dug nejot fi dudnel ati ohaco ra. Kojozwe aziwe po roz mane tal fog jev darga do rigavugi ki. Pawtavo itijuzu nibo oto gav gi jesen bajducjup ke la dumpa os uk. Ceewo cukgalne eledobis be zeihunar buvol haj jasuvza gid zo wi acufuvo jajagmuh ve ke linijvi. Rodha wirwej mepeb nefiwaz bukep ur uput cicsopdud zo hamaimu ufolaf cuzuze. Hoheaz kag og duzha zi nabefi ahluphi even cazebgev jefarsan tidip jemci."
+  },
+  "apiKey": "5e07a13f29ca0805d0880a55a6d1d41123135b61dcf1529a1618d846cf43d2a9",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
