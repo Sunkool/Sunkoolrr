@@ -1,0 +1,26 @@
+{
+  "name": "Devin Goodwin",
+  "age": 64,
+  "address": {
+    "street": "Hoon Manor",
+    "city": "Pigavov",
+    "state": "ID",
+    "zip": "19257"
+  },
+  "contact": {
+    "phone": "(369) 986-9810",
+    "servicePhone": "800655978"
+  },
+  "birthday": "1975-07-02T05:22:47.277Z",
+  "ip": "99.245.110.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo ote viliv sac sejit cilew uscus ge jutag solwewe wouhazu owpiw vaku. Nozrum la buco iswuve haklissu paw ko enaigogo pizusjo epo ziibi to aha. Medvowub vuppigoc daswaz hagu ha iwa omiujeela puzahoj hi mula davdud vopisok nabe ja fivce.",
+    "bio": "Nuwup gaj cow hi viribgo mu ale sukir fajveppo imadaof owunouti ek. Lazhek evu izhuseto caopsa zagfihbus esuvaez mos nifojdi vewilhop apcokgid mutik hufohu uh fer keku. Epsubuh fohmicur ivviv ehece lo liwdobo zezwub zac paw uzjat vab haalulij we. Numcahace jonof vikeek idoce sid nuzup eceiwil migfimud ipbano ozetuv dupafef vuhumno jornuh dijuelo girzuul hocigum naujgec."
+  },
+  "apiKey": "645bcd045d17946887c45a0c33dcbb61efe4575d5f6d8b7f68703d82b38b2b98",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
