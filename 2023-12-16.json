@@ -1,0 +1,26 @@
+{
+  "name": "Angel Pierce",
+  "age": 20,
+  "address": {
+    "street": "Evkut Terrace",
+    "city": "Kiclidulo",
+    "state": "DC",
+    "zip": "76034"
+  },
+  "contact": {
+    "phone": "(419) 342-8649",
+    "servicePhone": "800455841"
+  },
+  "birthday": "1971-11-05T20:35:39.776Z",
+  "ip": "194.120.114.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Neim pijafvis inawe siwmef ohuwasam zifiila gerir ocivce ni kajonugaf lepovuno osnic atefur rogimi. Zuc zin distotpiz ab bumioce ekawa witmafu epa jokho upimuoho nol zukfojdu maorge hu bik. Vasneaw alikefil gez ki wamgaba ragak mebudeg ijuif juvowog ha guzizo zimcise ireka.",
+    "bio": "Rolhov tahwogub loso sipuv ikfatme ud doveele tozbali efipuan baw rozrivset jihbeffuk ehitgo ziozi tapnedrub lultaus satazabi geascu. Ne onivu zeg vin ejoec vu hah zu aj gelujev itauw hiegoku mewanu magemokic helzib mevobcak. Ra lo uweon sen ged soer titnaso piwwuaso zipunbiz tar jiizpek bojwib fuffob ari. Ronobupu arolucis su ini se tejkojku vocbo apoip zurar rinfaco vaz cazsun."
+  },
+  "apiKey": "8564a198d9b4c6b61723284634e1627568f0cf4fd59f82558505c3f60887b8bb",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
