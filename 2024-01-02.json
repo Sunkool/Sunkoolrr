@@ -1,0 +1,26 @@
+{
+  "name": "Frank Long",
+  "age": 63,
+  "address": {
+    "street": "Poje Loop",
+    "city": "Dujavo",
+    "state": "MA",
+    "zip": "70024"
+  },
+  "contact": {
+    "phone": "(403) 286-8209",
+    "servicePhone": "800531336"
+  },
+  "birthday": "1985-08-26T10:55:12.631Z",
+  "ip": "232.233.208.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo hako keg nikcenezi isnaive pev vaj bob ziejjak osegel mi ekdivvid zagfuit. Ajoirfo rehfe sosco dehuweje tiz ute gop sifu zecfekko guspa fadec zugaino. Hal jetve gohej pib zitaha guh nivzagmif mu ad ruutvo wivsuzsam cewrago. Ohuef hi pucizece gevpeolu uhgonog wiw ivuvenavi nezi neirapam zoaluge elitumog vap je. Metakeju tupcocaj noro kitku gucoj fo tavkikvo ujjejwuc higihuhij soasdak ini ju ali. Guguoza gobukme kozoro nipo tiuhu azbieba muka umufamuhu larcopra is ki vonconmu ivfow.",
+    "bio": "Dasi vam kizoz oke ufpe pamhojuz ih goc oljof wibwudvet cafavcu zeduwcit cemelo nedape vu. Rec vucsebij widnib odguna isasu ticadsoc ongas wafdeg zaswa bop vub tenar tuwfesu ipelu ji siuno. Ter bi likba kamodwa anerag wol ubuhan likcit rori vikloiz vutugat lidi cazso makresok. Kulun ragvufgut ifi kewrin upif rap bevvos lehubi oski veil esatim cam buf."
+  },
+  "apiKey": "1067f29ab865a8132bb9568dcb333570b13b16e1bf3d92c9f57d6714bda84554",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
