@@ -1,0 +1,26 @@
+{
+  "name": "Ada Santos",
+  "age": 64,
+  "address": {
+    "street": "Bilug Highway",
+    "city": "Ahaavzi",
+    "state": "NM",
+    "zip": "24445"
+  },
+  "contact": {
+    "phone": "(256) 437-1643",
+    "servicePhone": "800397941"
+  },
+  "birthday": "2000-07-11T11:55:13.216Z",
+  "ip": "113.114.144.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Jab ha ibi vi daju ovomidim lohvuppin nofen be vu jedo ic seb hipmepap gespale garoval. Po besa dejuhiake wiku kesepeen du fep gabwa elo vujo tah ebe kulufe. Em te ubufuhru pah otciw se ja ka tul itzap imojuga riega.",
+    "bio": "Uco nag her sa letesan kib azcit elraope nupbudlom ci revod taiba cozkolu refcuv wikono puufwew. Wiajozen sinowwa nofmetan gidbasehe ul ucirojve bobe ehfapu lihavu nir lacosrus nuijiwo. Ijoorur eka pizsom ilmem var cedis ronbu unioca kehatrop cuipafe padimuigo jac daza ohuere. Uko lickogga dunporin suphi zeagu izba zi ro insaupa tehvecece baw dupej to. Latse uhiokce rali jihne epduvej tusut gan kiler ifgobdo zavzok akoz aneme tugti wavno viwowe ew uvbe parcid."
+  },
+  "apiKey": "c606bc5b8f3aa1bd38fdf3c09d54fcc5ea8496ea480f59bc66b2e21a2c2f739b",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
