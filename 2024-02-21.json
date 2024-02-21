@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Hansen",
+  "age": 44,
+  "address": {
+    "street": "Muhgos Way",
+    "city": "Hozufloj",
+    "state": "SC",
+    "zip": "99046"
+  },
+  "contact": {
+    "phone": "(927) 735-1463",
+    "servicePhone": "800627535"
+  },
+  "birthday": "1980-10-19T20:00:45.811Z",
+  "ip": "138.80.85.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Wujac ke ava mowuhrop to sec vuhbupini ulotogug emi luf navewam ton zig da sal haik. Basav sokhatir zasnahji gicuvem ipa poconi histon juti mo getgas sizihmic polsefzof negut todujiib muzpitan te. Hak tunbot caw tomiwis bu pugiza nettej ag lus jasworpaj his ipoosizi. Ufenehjuv nasagurul ceze dod ugso dor pamkif negaij vazbofir ublikmiv arnete dicirev leepiri lu vove ta. Sehhu mucuz mi of vunu dicodib bo kikego za jewhev josi hagonen. Avo huwsuci meso tuzcoti wef focvolo cog jijto fehahbot kewsa gicniped dilhumos.",
+    "bio": "Apivurzo wejajde fato peavu ulcaz viedoda mig godowur veowu matvin komhamu jesiv viwa. Zoju jivmi ran ha mioglo aheva wizsoos zu ce foj put je nal. Abodo ehe bam akjur li cukovvag ur luilehom jektemva hiusi dejot as poco."
+  },
+  "apiKey": "3bd987978d5f8f762b98fb033030b05b035e9c6c43913284168c9cdf329807f7",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
