@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Simmons",
+  "age": 50,
+  "address": {
+    "street": "Okoji View",
+    "city": "Hacgispa",
+    "state": "NC",
+    "zip": "47888"
+  },
+  "contact": {
+    "phone": "(535) 701-3791",
+    "servicePhone": "800634448"
+  },
+  "birthday": "1979-04-09T22:27:35.289Z",
+  "ip": "89.159.161.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Ek ja sunoj verfamkal ni dup is gaguad zowfuzfan ikwe vehked loh ruhze bi si ekuvutuj isgebas letobat. Rit wubaiw nunapu ena zasaz ime bajza poize an kostej adnut heer tomi del vu pibuuj dutotaze. Suebo vifowog so tut suf luv ronmop lissupse damfevwah zek ifi lamiga zol ehe. Zif teput ne polegih obnumnod tabnotum rimnih imola avag dod irko nuokid zol jaj af alude. Jogmifis uta naop wozwigdul wab ilfuf bep la ve lapko ce ibsaaga onjeb.",
+    "bio": "Sucowmol mihcah wonbu hefhe feggofazo hewdudik hehbouje daburuh nusjipal ha jervula sekgovek. Sut oveenumid faj cet vauvome heijobuc vulitno sep da danforen cavede fa be. Walwet kipbara avwirid teva huwsipi igiguhad tosuuw deb jijife enomemod ca bem jebfif."
+  },
+  "apiKey": "f350df3ed15eeef64f5c3ce7b1de9329c0d36460998baa15e92c6c647f5060b1",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
