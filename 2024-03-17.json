@@ -1,0 +1,26 @@
+{
+  "name": "Jayden Lewis",
+  "age": 18,
+  "address": {
+    "street": "Tamdo View",
+    "city": "Puvanu",
+    "state": "PA",
+    "zip": "88940"
+  },
+  "contact": {
+    "phone": "(731) 948-4845",
+    "servicePhone": "800255128"
+  },
+  "birthday": "1993-01-20T19:43:25.657Z",
+  "ip": "116.114.171.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Te zibi dewar abaumece vamu wajofo uta dobtu hicwok saga kijteseji ethahov. Civec balog ale vefa ce catomilic ku be peh hukfo koni vemzabfo cakcij. Fehasu naju vej cuvraf lu zafunzof venti ca itigepce josaziduj puw eti ocic kitazagi. Ujuda zorop tirunudas bukat be majeja fec orobabpen isru mados kamutte ligwuum. Va oc ge okeramo umpeco kuw lac tawe ul curo eveb fukokwir if cilpeos jibohuge. Simegum hin pockulso wuvzi bikfi fotko don ricdozal te poh legegi dac gewujuv. Ceprazhin azeuvi moznunpi rovuget mupu oka evkureh fu cefrumi ja ratpo loffag booddek vagaz me tiopdaz fih.",
+    "bio": "Sipowika uhe cel ugwiv ivguhag ortucsim wimte amemelic hiwka pailuwij afdopgoj vobun upzuden vavca. Nit wonjiken jiza buwzevaw zif lolbo ciwtat eczajpa jokipop cahkunub vezavi savgu cesbafa. Efmiaf rulewu juzsu ucozazse mudi wivid wutnez sac pebon jirpa giwo uteciho."
+  },
+  "apiKey": "c324129651f0803ee6de9520593244e4f19fdb543bba1b2a5992a459d70c38ce",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
