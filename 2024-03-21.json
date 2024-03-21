@@ -1,0 +1,26 @@
+{
+  "name": "Noah Brady",
+  "age": 48,
+  "address": {
+    "street": "Incig Terrace",
+    "city": "Wuskuezi",
+    "state": "NY",
+    "zip": "86200"
+  },
+  "contact": {
+    "phone": "(885) 903-3500",
+    "servicePhone": "800287915"
+  },
+  "birthday": "1979-07-17T20:01:15.052Z",
+  "ip": "206.183.39.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Muppos ziil je jagnecbun un doskubim wehlun bofer jopwiwi mis faj vuzne dewrintu vurel ukeol omewuzni idbiezo. Wi vulohu linijof jow lejcuwe niog bihra hopeb piffeghu pofak onofodo linog mumha li. Mebpedja fomki lur kugvevgo abeoco onu umeka mad facdugvub leotac rejze hora ef civi matav emlecac.",
+    "bio": "Erjogowu gor wezor vuplafoc ac aduhere ponrih kacega howiz po wiid mujekja ulinod. Koti zuwugsew iwa duoj wungojig cejah oso sepupof co bevhi tilmo cimopev. Fobun wa joim zo tez rafcauni difjap gardan pufzu vubsi uhlior el teesuuc tas af kuninipu."
+  },
+  "apiKey": "a8a778d4e83636981fd589f20e9d5ac57c29e69ef95f82508d2ba18e1f1a1789",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
