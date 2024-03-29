@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Sanders",
+  "age": 63,
+  "address": {
+    "street": "Tawin Plaza",
+    "city": "Dovawge",
+    "state": "ID",
+    "zip": "24395"
+  },
+  "contact": {
+    "phone": "(604) 741-3245",
+    "servicePhone": "800713227"
+  },
+  "birthday": "1975-03-06T09:06:39.114Z",
+  "ip": "31.223.75.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Bedji rasbedo wekraz cufhof oggo rauf cofahfim joje waj eteso touj domi luh fu navetewag uvu akaf. Mokban did vos kis pajottep ne ca cumereone kupobuto kebe ogaseej hucalbi imoumtis cerze ice wi sefpagifi peozeket. Wabnaoc iv fedop hudahun rul tennel fikinon ju hu jembocju cithedsed joadu. Vu jogbi nawa uto uw ji satoti nevsaca fehzi gesib wa ab bethedol zu. Aci us toj zis sujtoc jiwegofup lowgojoh ko fu si no he uwaefa sas rowcifha badora jabma nohko.",
+    "bio": "Fuha ihzawe cecekvan nade dojzap poge nojlirgir luosuzal mallebgi wu andor owaro no leeh ilaaj veswafkep ra fehzuc. Beaca mufevge da ge jege okodumas uvu kohepodu igkohlo nobsis fo mu bubme sumceb bijegoih mici to zinizus. Pihfaet piati uteav nojavjim mak ikzo tef ceod ojrosdi alo vappitvak oca ofulid ufoce zizme nof. Pabla ela zul itu rieho zul ik cezit pev ugapokge apnigkib top begi tubbinuno fedum as."
+  },
+  "apiKey": "5b7a00c24ae464f95a10778ce81cdaaa7a90bc93a21c0a41d8679cffe94d81f4",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
